@@ -1,2 +1,2 @@
 # bat-pass-app
-A project provided by DIO that's a secure password generator
+A React Native project provided by DIO that's a secure password generator
